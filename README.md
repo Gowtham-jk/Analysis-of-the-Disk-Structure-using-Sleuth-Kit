@@ -36,8 +36,6 @@ mkfs.vfat file.dd
 
 ### Create Disk
 
-![Screenshot 2025-04-22 213544](https://github.com/user-attachments/assets/825c83ea-d468-4d6b-8c43-0cd8c77bdbff)
-
 
 ### mmls 
 ```bash
@@ -47,9 +45,8 @@ mmls disk.dd
 ```bash
 fls -f fat -o 0 disk.dd
 ```
+![Screenshot 2025-04-22 213544](https://github.com/user-attachments/assets/825c83ea-d468-4d6b-8c43-0cd8c77bdbff)
 
-
-![alt text](IMG3.png)
 =
 ![Screenshot 2025-04-22 213047](https://github.com/user-attachments/assets/1b511c16-8981-4cff-9497-61d839ff4d4a)
 
