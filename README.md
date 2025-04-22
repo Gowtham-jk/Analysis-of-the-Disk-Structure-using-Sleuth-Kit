@@ -31,11 +31,13 @@ mkfs.vfat file.dd
 
 ## OUTPUT:
 
-![alt text](IMG1.png)
+![Screenshot 2025-04-22 213518](https://github.com/user-attachments/assets/24cd5e10-bfd2-42f9-9e5d-56112500e92e)
+
 
 ### Create Disk
 
-![alt text](IMG2.png)
+![Screenshot 2025-04-22 213544](https://github.com/user-attachments/assets/825c83ea-d468-4d6b-8c43-0cd8c77bdbff)
+
 
 ### mmls 
 ```bash
